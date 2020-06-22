@@ -2,7 +2,7 @@
 
 A completely customizable progress bar, with animation.
 
-![Example progress bar image](images/example1.png)
+![Example progress bar image](https://github.com/bhavya2611/Customizable-Progress-Bar/blob/master/images/example1.png)
 
 ## Installation
 
