@@ -3,10 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-/src
-/pubic
 .pnp.js
-.npmignore
 
 # testing
 /coverage
@@ -24,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# development
+/src
+/public
+.npmignore
