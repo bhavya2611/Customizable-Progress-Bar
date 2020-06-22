@@ -1,7 +1,20 @@
 {
-  "name": "component-contest",
-  "version": "0.1.0",
-  "private": true,
+  "name": "customizable-progress-bar",
+  "description": "Completely Customizable Progress Bar",
+  "version": "1.0.6",
+  "private": false,
+  "license": "MIT",
+  "main": "dist/ProgressBar.js",
+  "keywords": [
+    "react",
+    "npm",
+    "package",
+    "customizable",
+    "progress bar",
+    "animation",
+    "progress",
+    "bootstrap"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -10,7 +23,13 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.4.1"
   },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  },
   "scripts": {
+    "publish:npm": "babel src/components -d dist --copy-files",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -30,5 +49,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.3",
+    "@babel/core": "^7.10.3",
+    "@babel/preset-react": "^7.10.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "rollup": "^2.17.1",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-uglify": "^6.0.4"
   }
 }

@@ -3,7 +3,10 @@
 # dependencies
 /node_modules
 /.pnp
+/src
+/pubic
 .pnp.js
+.npmignore
 
 # testing
 /coverage
