@@ -1,7 +1,7 @@
 {
   "name": "customizable-progress-bar",
   "description": "Completely Customizable Progress Bar",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "private": false,
   "license": "MIT",
   "main": "dist/ProgressBar.js",

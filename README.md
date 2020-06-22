@@ -7,7 +7,7 @@ A completely customizable progress bar, with animation.
 ## Installation
 
 ```sh
-npm install --save customizable-prgress-bar
+npm i --save customizable-progress-bar
 ```
 
 ## Import
