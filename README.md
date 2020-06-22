@@ -1,8 +1,5 @@
 # Customizable Progress Bar
 
-[![NPM Version][npm-image]][https://www.npmjs.com/package/customizable-progress-bar]
-[![Downloads Stats][npm-downloads]][https://www.npmjs.com/package/customizable-progress-bar]
-
 A completely customizable progress bar, with animation.
 
 ![Example progress bar image](https://github.com/bhavya2611/Customizable-Progress-Bar/blob/master/images/example1.png)
