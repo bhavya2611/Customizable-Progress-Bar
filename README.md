@@ -46,6 +46,10 @@ const Bar = () => {
 
 ## Author
 
-Bhavya Mehta – [@LinkedIn](https://www.linkedin.com/in/bhavya-y-mehta/) – bhavya.y.mehta@gmail.com
+Bhavya Mehta – [@LinkedIn](https://www.linkedin.com/in/bhavya-y-mehta/)
+
+Mail Id = [@Gmail](bhavya.y.mehta@gmail.com)
+
+Git Hub - [@GitHub](https://github.com/bhavya2611/Customizable-Progress-Bar)
 
 Distributed under the MIT license. See `LICENSE` for more information.
